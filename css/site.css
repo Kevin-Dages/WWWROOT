@@ -1,0 +1,22 @@
+html {
+  font-size: 14px;
+
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 20px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+ .accordion-button {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcTDcwwUnZ8YBDgqBUD3megFHZxT_o7cEMdTO5YnSk&s)
+}
+body {
+    margin-bottom: 60px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10-zR7O9HphueIaxv1zC0J08c3gSheNuUy2IWXxezxw&s)
+}
